@@ -52,4 +52,3 @@ if gps_data:
 else:
     print("No GPS data found.")
     
-    
